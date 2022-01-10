@@ -1,3 +1,5 @@
-## Projektvorlagen
+### Projektvorlagen
 
-### Hier findest Du alle Projektvorlagen aus meinen Web, und Podcast, sowie meinen Blog-Artikel.
+#### Willkommen in meinem **GITHUB** Projektvolagenbereich. Hier findest Du alle Vorlagen die ich in meinen YouTube und Podcasts anspreche.
+
+**Bitte beachte, das ich für die Nutzung keine Verantwortung übernehme!**
